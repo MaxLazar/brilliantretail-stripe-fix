@@ -1,1 +1,2 @@
-# brilliantretail-stripe-fix
+# BrilliantRetail Stripe Fix
+
